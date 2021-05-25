@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:infra="clr-namespace:Shop.UIForms.Infraestructure"
+             x:Class="Shop.UIForms.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <!--Locator-->
+            <infra:InstanceLocator x:Key="Locator"/>
+            <!-- Parameters -->
+            <x:String x:Key="UrlAPI">https://201.185.113.116:444/shop</x:String>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

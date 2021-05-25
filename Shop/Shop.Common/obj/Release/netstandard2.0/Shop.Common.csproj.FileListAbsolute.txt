@@ -1,0 +1,9 @@
+C:\Desarrollo\VisualStudio2019\Projects\Shop\Shop.Common\bin\Release\netstandard2.0\Shop.Common.deps.json
+C:\Desarrollo\VisualStudio2019\Projects\Shop\Shop.Common\bin\Release\netstandard2.0\Shop.Common.dll
+C:\Desarrollo\VisualStudio2019\Projects\Shop\Shop.Common\bin\Release\netstandard2.0\Shop.Common.pdb
+C:\Desarrollo\VisualStudio2019\Projects\Shop\Shop.Common\obj\Release\netstandard2.0\Shop.Common.csprojAssemblyReference.cache
+C:\Desarrollo\VisualStudio2019\Projects\Shop\Shop.Common\obj\Release\netstandard2.0\Shop.Common.csproj.CoreCompileInputs.cache
+C:\Desarrollo\VisualStudio2019\Projects\Shop\Shop.Common\obj\Release\netstandard2.0\Shop.Common.AssemblyInfoInputs.cache
+C:\Desarrollo\VisualStudio2019\Projects\Shop\Shop.Common\obj\Release\netstandard2.0\Shop.Common.AssemblyInfo.cs
+C:\Desarrollo\VisualStudio2019\Projects\Shop\Shop.Common\obj\Release\netstandard2.0\Shop.Common.dll
+C:\Desarrollo\VisualStudio2019\Projects\Shop\Shop.Common\obj\Release\netstandard2.0\Shop.Common.pdb

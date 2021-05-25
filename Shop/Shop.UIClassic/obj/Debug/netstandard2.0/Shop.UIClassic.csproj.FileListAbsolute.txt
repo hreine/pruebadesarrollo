@@ -1,0 +1,8 @@
+C:\Desarrollo\VisualStudio2019\Projects\Shop\Shop.UIClassic\bin\Debug\netstandard2.0\Shop.UIClassic.deps.json
+C:\Desarrollo\VisualStudio2019\Projects\Shop\Shop.UIClassic\bin\Debug\netstandard2.0\Shop.UIClassic.dll
+C:\Desarrollo\VisualStudio2019\Projects\Shop\Shop.UIClassic\bin\Debug\netstandard2.0\Shop.UIClassic.pdb
+C:\Desarrollo\VisualStudio2019\Projects\Shop\Shop.UIClassic\obj\Debug\netstandard2.0\Shop.UIClassic.AssemblyInfoInputs.cache
+C:\Desarrollo\VisualStudio2019\Projects\Shop\Shop.UIClassic\obj\Debug\netstandard2.0\Shop.UIClassic.AssemblyInfo.cs
+C:\Desarrollo\VisualStudio2019\Projects\Shop\Shop.UIClassic\obj\Debug\netstandard2.0\Shop.UIClassic.dll
+C:\Desarrollo\VisualStudio2019\Projects\Shop\Shop.UIClassic\obj\Debug\netstandard2.0\Shop.UIClassic.pdb
+C:\Desarrollo\VisualStudio2019\Projects\Shop\Shop.UIClassic\obj\Debug\netstandard2.0\Shop.UIClassic.csprojAssemblyReference.cache

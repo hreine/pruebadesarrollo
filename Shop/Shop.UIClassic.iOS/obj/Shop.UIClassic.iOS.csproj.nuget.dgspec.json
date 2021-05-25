@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Desarrollo\\VisualStudio2019\\Projects\\Shop\\Shop.UIClassic.iOS\\Shop.UIClassic.iOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Desarrollo\\VisualStudio2019\\Projects\\Shop\\Shop.UIClassic.iOS\\Shop.UIClassic.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desarrollo\\VisualStudio2019\\Projects\\Shop\\Shop.UIClassic.iOS\\Shop.UIClassic.iOS.csproj",
+        "projectName": "Shop.UIClassic.iOS",
+        "projectPath": "C:\\Desarrollo\\VisualStudio2019\\Projects\\Shop\\Shop.UIClassic.iOS\\Shop.UIClassic.iOS.csproj",
+        "packagesPath": "C:\\Users\\hrein\\.nuget\\packages\\",
+        "outputPath": "C:\\Desarrollo\\VisualStudio2019\\Projects\\Shop\\Shop.UIClassic.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hrein\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.syncfusion.com/nuget_windows-forms/nuget/getsyncfusionpackages/windows-forms": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
